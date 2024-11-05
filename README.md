@@ -112,6 +112,7 @@ dataset after printing only codes columns:
 ![3](https://github.com/user-attachments/assets/3c8f0558-826e-44ae-a28e-21d93bdcb4ec)
 
 Accuracy:
+
 ![Screenshot 2024-11-05 000341](https://github.com/user-attachments/assets/7a9a816e-fcf5-41fb-b5ca-cfd3bb70d7af)
 
 Array values of Y prediction:
@@ -121,6 +122,7 @@ Array values of Y:
 ![6](https://github.com/user-attachments/assets/38d3589e-4714-498e-881c-f9d52ee184aa)
 
 predicting with different values:
+
 ![Screenshot 2024-11-05 000422](https://github.com/user-attachments/assets/09b49400-85f2-460a-87bf-8bd73b5875d4)
 
 ## Result:
