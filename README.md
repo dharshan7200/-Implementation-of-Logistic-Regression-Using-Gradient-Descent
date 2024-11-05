@@ -104,7 +104,21 @@ print(y_prednew)
 
 ## Output:
 
-![Screenshot 2024-09-22 203744](https://github.com/user-attachments/assets/6a648d0a-a64b-498d-87f9-668110579bae)
+## Output:
+dataset:
+![alt text](1..png)
+datatypes: 
+![alt text](2..png) 
+dataset after printing only codes columns:
+![alt text](3..png) 
+Accuracy:
+![alt text](4..png) 
+Array values of Y prediction:
+![alt text](5..png) 
+Array values of Y:
+![alt text](6..png) 
+predicting with different values:
+![alt text](7..png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
