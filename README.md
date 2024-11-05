@@ -103,8 +103,6 @@ print(y_prednew)
 ```
 
 ## Output:
-
-## Output:
 dataset:
 ![1](https://github.com/user-attachments/assets/23235110-1073-4ba6-83e3-e0185a978684)
 
